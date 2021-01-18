@@ -1,5 +1,5 @@
 # hellow-world
 hhhh
-aIt's 5 pm somewhere.
-It's 12 a.m., time to eat lunch.
-It's 11 p.m. at night.sd
+It's 5 p.m. somewhere.
+It's midnight, time to eat lunch.
+It's 11 p.m.
