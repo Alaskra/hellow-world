@@ -12,6 +12,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: install proselint
-      run: pip install proselint
+      run: pip3 install proselint
     - name: check
       run: find . -name "*.md" -print0 |xargs -0 proselint
